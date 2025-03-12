@@ -7,7 +7,8 @@ The LOF algorithm works by:
 4. Comparing daily production data against these Golden Clusters to identify outliers
 
 The mathematical equation shown in Figure 1 defines how the LOF score is calculated for a point A.
-![image](https://github.com/user-attachments/assets/0842bcc8-1bed-4c1a-95d7-e2e5b28029ae)
+![image](https://github.com/user-attachments/assets/768e2c38-3b5e-4198-aa83-f2200945e388)
+
 
 
 This approach is being used as an unsupervised machine learning algorithm for:
